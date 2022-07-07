@@ -1,0 +1,10 @@
+package entities;
+
+public class TaxPayer {
+	
+	private String name;
+	private Double anaualIncome;
+	
+	pulbic TaxPayer() {
+	}
+}

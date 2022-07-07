@@ -1,0 +1,13 @@
+package model.entities;
+
+import java.util.Date;
+
+import javax.xml.crypto.Data;
+
+public class Reservation {
+	
+	private Integer roomNumber;
+	private Date checkIn;
+	private Date checkOut;
+	
+}

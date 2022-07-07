@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="entities.Triangle"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="entities.Rectangle"/>
+<fullyQualifiedTypeName name="util.calculator"/>
+<fullyQualifiedTypeName name="entities.CurrencyConverter"/>
+<fullyQualifiedTypeName name="entities.Product"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="entities.Order"/>
+<fullyQualifiedTypeName name="entities.enums.OrderStatus"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="entities.Department"/>
+<fullyQualifiedTypeName name="entities.Worker"/>
+<fullyQualifiedTypeName name="entities.enums.WorkerLevel"/>
+<fullyQualifiedTypeName name="entities.HourContract"/>
+<fullyQualifiedTypeName name="entities.BusinessAccount"/>
+<fullyQualifiedTypeName name="entities.Account"/>
+<fullyQualifiedTypeName name="entities.SavingsAccount"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="entities.OutsourcedEmployee"/>
+<fullyQualifiedTypeName name="entities.Employee"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="entities.Indivudual"/>
+<fullyQualifiedTypeName name="entities.Company"/>
+<fullyQualifiedTypeName name="java.awt.Window.Type"/>
+<fullyQualifiedTypeName name="entities.TaxPayer"/>
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="model.entities.Reservation"/>
+</qualifiedTypeNameHistroy>
